@@ -1,7 +1,7 @@
 # Finance Projects
 A place to store my projects regarding finance
 ## Current Projects:
-  ### Efficient_Frontier
+  ### multi_asset_efficient_frontier
   -> Calculates the Efficient Frontier for a multi-index portfolio
   
   ### MSFT_SP500_Beta_CAPM

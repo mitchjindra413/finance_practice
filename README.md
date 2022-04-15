@@ -11,7 +11,7 @@ A place to store my projects regarding finance
 ## Required libraries if downloaded:
   *PANDAS
   *NUMPY
-  *PlOTLY
+  *PLOTLY
   *YFINANCE
   *MATLAB
   *SCIPY
